@@ -28,12 +28,6 @@ Stay tuned for more updates and features as I bring this project to life!
 
 ---
 
-## My Current Journey
-As a developer, I'm constantly evolving and learning new technologies.  
-If you have any advice, tips, or resources to share, I'd love to hear from you!
-
----
-
 ## Tools & Technologies
 Here are some of the tools and technologies I work with:
 
