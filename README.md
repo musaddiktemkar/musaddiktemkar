@@ -41,11 +41,7 @@ Here are some of the tools and technologies I work with:
 
 
 ## GitHub Stats
-<center>
-<img src="https://github-readme-stats.vercel.app/api?username=musaddiktemkar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="musaddiktemkar's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiktemkar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="musaddiktemkar's GitHub Stats" />
-</center>
+<center><img src="https://github-readme-stats.vercel.app/api?username=musaddiktemkar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="musaddiktemkar's GitHub Stats" /></center>
 
 ---
 
