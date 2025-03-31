@@ -20,7 +20,7 @@ Feel free to check it out and provide your feedback!
 
 ---
 
-### 2. [showdown](https://github.com/musaddiktemkar/showdown)
+### 2. [inpulse](https://github.com/musaddiktemkar/impulse)
 This project is a step towards hosting my **private Pokémon Showdown server**.  
 I'm working on optimizing and customizing the server to provide a seamless experience for users.  
 
